@@ -54,7 +54,7 @@ to /etc/fstab
 But that may not work due to how the filesystems start up. So I added a ```/etc/init.d/S99swapstart```.  In it I put 2 lines using "vi"
 ```
 #!/bin/bash
-/sbin/swapon -a
+/sbin/swapon /userdata/swapfile
 ```
 
 Now it will add the swap space upon reboot.
