@@ -154,7 +154,7 @@ Scatter =
 They can be found in and around lines 872, 988, and 1095 in the file Default_VPinballX.ini in the above directory.
 In vi you would type in "872G" to get to line 872. Then "dd" to delete each line. Again, get instructions from the internet if you are not sure.  Make sure you do not delete any other lines and only the instances found around those line numbers.  There are other places where these lines must remain.
 
-Save the file.
+Save the file and ```batocera-save-overlay```.
 
 Now you need your table (the .vpx file) and your roms (something_something.zip).
 The tables go into /userdata/roms/vpinball/<table name>
