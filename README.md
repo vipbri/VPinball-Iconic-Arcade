@@ -55,6 +55,7 @@ But that may not work due to how the filesystems start up. So I added a ```/etc/
 ```
 #!/bin/bash
 /sbin/swapon /userdata/swapfile
+batocera-save-overlay
 ```
 
 Now it will add the swap space upon reboot.
