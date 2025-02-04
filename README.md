@@ -4,7 +4,7 @@ So I got vpinball working on Batocera on an Iconic Arcade console!  I will say t
 
 Not all tables work.  Some work but you can't see the playfield, it's black.  Maybe this is because the available versions for the Iconic Arcade are beta versions?
 
-For tables that do work it has amusing performance. It's almost playable. Sort of. There's a tiny bit of input lag and you can almost follow the ball.  I'm sure there are tweaks that can be done to make it better.  But it's not a great experience at all.  If you still want to give it a go, read on...
+For tables that do work it has amusing performance. It's almost playable. Sort of. There's a tiny bit of input lag and you can almost follow the ball.  I'm sure there are tweaks that can be done to make it better.  But it's not a great experience.  If you still want to give it a go, read on...
 
 For now I haven't figured out how to use the joystick, buttons for flippers, etc.  You will need a keyboard to play.  Alt+F4 will quit the table.
 
