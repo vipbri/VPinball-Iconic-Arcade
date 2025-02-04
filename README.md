@@ -6,6 +6,8 @@ Not all tables work.  Some work but you can't see the playfield, it's black.  Ma
 
 For tables that do work it has amusing performance. It's almost playable. Sort of. There's a tiny bit of input lag and you can almost follow the ball.  I'm sure there are tweaks that can be done to make it better.  But it's not a great experience at all.  If you still want to give it a go, read on...
 
+For now I haven't figured out how to use the joystick, buttons for flippers, etc.  You will need a keyboard to play.  Alt+F4 will quit the table.
+
 There is a bunch of typing and editing. Not much point and click. So be ready. I'm also writing this from the perspective that I'm doing everything from a Linux system. Windows systems some of the commands and procedures will change, like scp.
 
 You will need at least one table .vpx file.  You will need the roms for the table in zip format (do not unzip this file). The rom file will be something like "something_something.zip".  For example hs_l4.zip.
